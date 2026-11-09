@@ -2,7 +2,11 @@
 
 <aside>
 
-실습 파일 10개 (아래에서 내려받기)
+다운로드 방법
+
+![fileLink](https://github.com/alex99091/AI_Education_files/blob/main/f%20ileLink.png?raw=true)
+
+실습 파일 10개
 
 - 2-3 노트북용: 7-1_거래처프로필_새봄마트.pdf · 7-2_판매요약_3분기.pdf · 7-3_지난미팅메모_7월.pdf · 7-4_제품과지원안.pdf
   
